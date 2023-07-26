@@ -6,11 +6,11 @@ This project is intended to demonstrate usage of basic SQL querying as well as e
 The majority of this project has been completed through a tutorial by AlexTheAnalyst on YouTube. Therefore, a large proportion of this code isn't my own, but has been used to improve my understanding of SQL code as well as giving me the opportunity to investigate by myself with the skills covered.
 
 ### Table of Contents
-* [Installation](#Installation)
+* [Installation](#installation)
 * [Usage](#Usage)
-* [Interesting Findings and Issues Encountered](#Interesting-Findings-and-Issues-Encountered)
-* [SQL Commands/Functions/Skills Used in this Project](#SQL-Commands/Functions/Skills-Used-In-This-Project)
-* [Contributors to Project](#Contributors-to-Project)
+* [Interesting Findings and Issues Encountered](#interesting-findings-and-issues-encountered)
+* [SQL Commands/Functions/Skills Used in this Project](#sql-commands/functions/skills-used-in-this-project)
+* [Contributors to Project](#contributors-to-project)
 
 ### Installation
 Download the ZIP file located under the green 'Code' tab. This file should contain both the main code and two CSV files 'CovidDeaths' and 'CovidVaccinations' which contain the datasets used in this project. Extract to a folder of your choosing.
