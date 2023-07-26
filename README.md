@@ -81,7 +81,7 @@ Gibraltar has a population of 32,677, but 42,175 people have been vaccinated at 
 
 ![image](https://user-images.githubusercontent.com/125564099/224358393-d8450d10-77c4-43e8-8a63-6ee99a56ccb5.png)
 
-### SQL Commands/Functions/Skills Used in this Project
+### SQL Commands Functions Skills Used in this Project
 * SELECT, WHERE, ORDER BY, GROUP BY, JOIN, ON
 * MAX(), SUM(), CAST()
 * CREATE VIEW, OVER(), PARTITION BY, CREATE TABLE, DROP TABLE
