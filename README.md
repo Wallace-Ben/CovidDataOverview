@@ -9,7 +9,7 @@ The majority of this project has been completed through a tutorial by AlexTheAna
 * [Installation](#installation)
 * [Usage](#usage)
 * [Interesting Findings and Issues Encountered](#interesting-findings-and-issues-encountered)
-* [SQL Commands/Functions/Skills Used in this Project](#sql-commands-functions-skills-used-in-this-project)
+* [SQL Commands/Functions/Skills Used in this Project](#SQL-commands/functions/skills-used-in-this-project)
 * [Contributors to Project](#contributors-to-project)
 
 ### Installation
