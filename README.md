@@ -8,7 +8,7 @@ The majority of this project has been completed through a tutorial by AlexTheAna
 ### Table of Contents
 * [Installation](#Installation)
 * [Usage](#Usage)
-* [Interesting Findings and Issues Encountered](#Interesting-Findings-and-Issues-Encountered)
+* [Interesting Findings and Issues Encountered](#interesting-findings-and-issues-encountered)
 * [SQL Commands/Functions/Skills Used in this Project](#SQL-Commands/Functions/Skills-Used-In-This-Project)
 * [Contributors to Project](#Contributors-to-Project)
 
